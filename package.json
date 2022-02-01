@@ -1,0 +1,22 @@
+{
+  "name": "pbjs-versions",
+  "version": "1.0.0",
+  "description": "A script that parses Prebid request URLs and extracts the version from each URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickloughrey/pbjs-versions.git"
+  },
+  "author": "Patrick Loughrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickloughrey/pbjs-versions/issues"
+  },
+  "homepage": "https://github.com/patrickloughrey/pbjs-versions#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
